@@ -22,14 +22,14 @@ function Navigation() {
               Dramas
             </NavLink>
           </li>
-          {/* <li>
+          <li>
             <NavLink
-              to="/signup"
+              to="/nowplaying"
               className={({ isActive }) => (isActive ? 'active' : '')}
             >
-              Sign Up
+              Now Playing
             </NavLink>
-          </li> */}
+          </li> 
           <li>
             <Login />
           </li>
