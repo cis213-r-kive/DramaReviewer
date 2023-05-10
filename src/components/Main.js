@@ -3,7 +3,7 @@ import Card from './Card';
 function Main() {
     return (
         <div>
-            <div className="drama-cards">
+            <div className="recdrama-cards">
                 <Card 
                     img="https://koreanbinge.files.wordpress.com/2022/04/runon-poster.jpg?w=428"
                     alt="run-on poster"

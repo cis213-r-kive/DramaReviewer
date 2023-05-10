@@ -9,7 +9,7 @@ function Home() {
                 <p>Explore Kdramas, from historical to the tear jerking ones we got them all. Interact with each drama by commenting and rating which one is your favorite!</p>
             </div>
 
-            <h2>Our Recommended</h2>
+            <h2 className="reco">Our Recommended</h2>
             <Main />
             <Footer />
         </div>
