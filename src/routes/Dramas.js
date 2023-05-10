@@ -1,4 +1,5 @@
 import DramaCard from '../components/DramaCard';
+import Footer from '../components/Footer';
 
 function Dramas(){
     return (
@@ -60,6 +61,8 @@ function Dramas(){
                     category="Romance | Thriller | Melodrama"
                 />
            </div>
+
+           <Footer />
         </div>
     );
 }

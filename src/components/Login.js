@@ -22,7 +22,7 @@ function Login(){
 
     return (
         <div>
-            <form onSubmit={submitFormHandler}>
+            <form onSubmit={submitFormHandler} className="login-form">
                 <input
                     type="text"
                     placeholder="Username"
